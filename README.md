@@ -79,7 +79,7 @@ This project consisted in designing a structure similar to the heart and modelin
 
 Watch out the full videos [here](https://www.youtube.com/watch?v=6OjiRnmKhGo) and [here](https://www.youtube.com/watch?v=mZ9fY0E-GO8)
 
-- [x] Sound Equalizer
+## 8. Sound Equalizer
 
 Developed a basic sound equalizer using customized analog circuits. 
 
