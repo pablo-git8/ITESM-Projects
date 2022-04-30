@@ -1,4 +1,4 @@
-# ITESM Projects
+# ITESM Projects Pablo Ruiz Lopez
 
 ## Context
 
@@ -6,7 +6,7 @@ This is a repository storing some of the projects I developed or collaborated du
 
 In here I have also available some projects made during my international study abroad program in Yonsei University in Seoul, South Korea. 
 
-There is no code or algorithms included in the repository and most of these projects are in Spanish. If you would like to have deeper insights on source codes in any of the project or to have the English version of the papers, please contact me at pabloweb8@gmail.com
+The information showed in the repo is quite limited and it is only for showing purposes, there is no code or algorithms included and most of these projects are in Spanish. If you would like to have deeper insights on source codes in any of the project or to have the English version of the papers, please contact me at pabloweb8@gmail.com
 
 ## Brief Description of The Projects
 
@@ -46,6 +46,6 @@ The logic and implementation behind this project were the P300 bio-potential det
 
 Developed a basic sound equalizer using customized analog circuits. 
 
-![alt text](https://github.com/[username]/[reponame]/blob/[branch]/image.jpg?raw=true)
+![alt text](https://github.com/pabloweb8/ITESM-Projects/blob/main/Images/LD.jpeg?raw=true)
 
 Enjoy!
