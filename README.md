@@ -27,9 +27,6 @@ Biosensors readings and MRI dynamic images processing were made by using differe
 <p align="center">
 	<img src="https://github.com/pablo-git8/ITESM-Projects/blob/main/Images/LD1.jpeg" width="604" height="395">
 </p>
-<p align="center">
-	<img src="https://github.com/pablo-git8/ITESM-Projects/blob/main/Images/LD2.jpeg" width="604" height="395">
-</p>
 
 ## 2. Medical DICOM Image Processing GUI
 
@@ -82,7 +79,7 @@ The logic and implementation behind this project were the P300 bio-potential det
 This project consisted in designing a structure similar to the heart and modeling flows before and after an Amplatzer implant. The technologies used for this project were CAD designs in COMSOL mainly.
 
 <p align="center">
-	<img src="https://github.com/pablo-git8/ITESM-Projects/blob/main/Images/TWYM.jpeg" width="604" height="395">
+	<img src="https://github.com/pablo-git8/ITESM-Projects/blob/main/Images/Estructura1Malla.PNG" width="604" height="500">
 </p>
 
 Watch out the video [here](https://www.youtube.com/watch?v=6OjiRnmKhGo) and [here](https://www.youtube.com/watch?v=mZ9fY0E-GO8)
