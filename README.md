@@ -46,6 +46,6 @@ The logic and implementation behind this project were the P300 bio-potential det
 
 Developed a basic sound equalizer using customized analog circuits. 
 
-![alt text](https://github.com/pabloweb8/ITESM-Projects/blob/main/Images/LD.jpeg?raw=true)
+![test image](https://github.com/pablo-git8/ITESM-Projects/blob/main/Images/BPA.png)
 
 Enjoy!
