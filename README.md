@@ -8,11 +8,6 @@ In here I have also available some projects made during my international study a
 
 The information showed in the repo is quite limited and it is only for showing purposes, there is no code or algorithms included and most of these projects are in Spanish. If you would like to have deeper insights on source codes in any of the project or to have the English version of the papers, please contact me at pabloweb8@gmail.com
 
-<p align="center">
-	<img src="https://github.com/pablo-git8/ITESM-Projects/blob/main/Images/LD.jpeg" width="500" height="520">
-</p>
-
-
 ## Brief Description of The Projects
 
 ## 1. Lie Detector Based on Bio signals and MRI Scans
@@ -79,7 +74,7 @@ The logic and implementation behind this project were the P300 bio-potential det
 This project consisted in designing a structure similar to the heart and modeling flows before and after an Amplatzer implant. The technologies used for this project were CAD designs in COMSOL mainly.
 
 <p align="center">
-	<img src="https://github.com/pablo-git8/ITESM-Projects/blob/main/Images/Estructura1Malla.PNG" width="604" height="500">
+	<img src="https://github.com/pablo-git8/ITESM-Projects/blob/main/Images/Estructura1Malla.PNG" width="500" height="608">
 </p>
 
 Watch out the video [here](https://www.youtube.com/watch?v=6OjiRnmKhGo) and [here](https://www.youtube.com/watch?v=mZ9fY0E-GO8)
