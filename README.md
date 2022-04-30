@@ -8,7 +8,7 @@ In here I have also available some projects made during my international study a
 
 The information showed in the repo is quite limited and it is only for showing purposes, there is no code or algorithms included and most of these projects are in Spanish. If you would like to have deeper insights on source codes in any of the project or to have the English version of the papers, please contact me at pabloweb8@gmail.com
 
-![test image](https://github.com/pablo-git8/ITESM-Projects/blob/main/Images/LD.jpeg = 400x400)
+![test image](https://github.com/pablo-git8/ITESM-Projects/blob/main/Images/LD.jpeg|width=100px])
 
 ## Brief Description of The Projects
 
