@@ -9,22 +9,27 @@ In here I have also available some projects made during my international study a
 The information showed in the repo is quite limited and it is only for showing purposes, there is no code or algorithms included and most of these projects are in Spanish. If you would like to have deeper insights on source codes in any of the project or to have the English version of the papers, please contact me at pabloweb8@gmail.com
 
 <p align="center">
-	<img src="https://github.com/pablo-git8/ITESM-Projects/blob/main/Images/LD.jpeg" width="500" height="500">
+	<img src="https://github.com/pablo-git8/ITESM-Projects/blob/main/Images/LD.jpeg" width="500" height="520">
 </p>
+
 
 ## Brief Description of The Projects
 
-- [x] Lie Detector Based on Bio signals and MRI Scans
+## - [x] Lie Detector Based on Bio signals and MRI Scans
 
 Developed an algorithm and data cleaning procedures for lie detection based on bio-potentials measured (EKG, EEG, Respiratory Rate and EDA) using BIOPAC Biosensors reading and MRI Scans. 
 
 Biosensors readings and MRI dynamic images processing were made by using different technologies like BIOPAC Suite, G-Tech OpenVibe Software and MATLAB. Experimental acquisition and protocols were used using MATLAB GUI development as well.
 
-![test image](https://github.com/pablo-git8/ITESM-Projects/blob/main/Images/MRI.jpeg)
-
-![test image](https://github.com/pablo-git8/ITESM-Projects/blob/main/Images/LD1.jpeg)
-
-![test image](https://github.com/pablo-git8/ITESM-Projects/blob/main/Images/LD2.jpeg)
+<p align="center">
+	<img src="https://github.com/pablo-git8/ITESM-Projects/blob/main/Images/MRI.jpeg" width="604" height="395">
+</p>
+<p align="center">
+	<img src="https://github.com/pablo-git8/ITESM-Projects/blob/main/Images/LD1.jpeg" width="604" height="395">
+</p>
+<p align="center">
+	<img src="https://github.com/pablo-git8/ITESM-Projects/blob/main/Images/LD2.jpeg width="604" height="395">
+</p>
 
 - [x] Medical DICOM Image Processing GUI
 
