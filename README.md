@@ -15,10 +15,10 @@ This project involved developing an algorithm and data cleaning procedures for a
 For the processing of biosensor readings and dynamic MRI images, I utilized a range of technologies, including the BIOPAC Suite, G-Tech OpenVibe Software, and MATLAB. The project also involved experimental acquisition and the use of MATLAB for GUI development.
 
 <p align="center">
-	<img src="https://github.com/pablo-git8/ITESM-Projects/blob/main/Images/MRI.jpeg" width="404" height="395">
+	<img src="https://github.com/pablo-git8/ITESM-Projects/blob/main/Images/MRI.jpeg" width="304" height="295">
 </p>
 <p align="center">
-	<img src="https://github.com/pablo-git8/ITESM-Projects/blob/main/Images/LD1.jpeg" width="404" height="395">
+	<img src="https://github.com/pablo-git8/ITESM-Projects/blob/main/Images/LD1.jpeg" width="304" height="295">
 </p>
 
 ## 2. Medical DICOM Image Processing GUI
